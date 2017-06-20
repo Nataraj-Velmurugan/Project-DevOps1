@@ -1,5 +1,6 @@
 package excel;
 
+//git changes 
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebElement;
@@ -11,8 +12,6 @@ import wrappers.LeafTapsWrappers;
 
 public class LoginBasicCode extends LeafTapsWrappers {
 
-	
-	//changes for git
 	
 	@Test(dataProvider = "fetchData")
 	public void Login(String uName, String password) throws InterruptedException{
