@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17309" started-at="2017-06-20T11:43:06Z" finished-at="2017-06-20T11:43:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17309" started-at="2017-06-20T11:43:06Z" finished-at="2017-06-20T11:43:23Z">
+      <class name="testcases.TC004_EditLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeSuite" is-config="true" duration-ms="733" started-at="2017-06-20T17:13:05Z" finished-at="2017-06-20T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-06-20T17:13:06Z" finished-at="2017-06-20T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="setData" is-config="true" duration-ms="0" started-at="2017-06-20T17:13:06Z" finished-at="2017-06-20T17:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeMethod" is-config="true" duration-ms="6067" started-at="2017-06-20T17:13:06Z" finished-at="2017-06-20T17:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EditLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="EditLead" duration-ms="10835" started-at="2017-06-20T17:13:12Z" data-provider="fetchData" finished-at="2017-06-20T17:13:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Demo Sales Manager]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12007]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Algorithm- Unicode]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Code-Phase1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditLead -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-06-20T17:13:23Z" finished-at="2017-06-20T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-20T17:13:23Z" finished-at="2017-06-20T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterSuite" is-config="true" duration-ms="268" started-at="2017-06-20T17:13:23Z" finished-at="2017-06-20T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC004_EditLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
