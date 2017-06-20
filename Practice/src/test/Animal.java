@@ -9,6 +9,8 @@ public class Animal
    public void testInstanceMethod()
 	 {
        System.out.println("The instance method in Animal");
+       
+       System.out.println("changes done for git");
    	 }
 }
 
